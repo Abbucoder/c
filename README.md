@@ -1,4 +1,4 @@
-# c
+#c-1
 promgram of additions of 2number
 #include <stdio.h>
 int main()
